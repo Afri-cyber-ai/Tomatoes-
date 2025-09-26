@@ -12,7 +12,7 @@ import random
 
 st.markdown("""
 <style>
-/* Main purple theme /
+/* Main purple theme */
 .main-header {
 font-size: 3rem;
 color: #6a0dad;
